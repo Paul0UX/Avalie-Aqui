@@ -1,0 +1,23 @@
+# arquivos de ambiente
+.env
+
+# logs
+*.log
+
+# arquivos temporarios
+*.tmp
+*.temp
+
+# dependencias php
+/vendor/
+
+# dependencias js
+/node_modules/
+
+# arquivos do editor
+.vscode/
+.idea/
+
+# sistema
+.DS_Store
+Thumbs.db
